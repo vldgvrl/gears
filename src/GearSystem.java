@@ -1,6 +1,5 @@
 package gears;
 
-
 import java.util.ArrayList;
 
 /*
